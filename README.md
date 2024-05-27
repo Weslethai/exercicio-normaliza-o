@@ -1,4 +1,4 @@
-# exercicio-normaliza-o
+# exercicio-normalização
 # Descrição da atividade 
 ![331831441-3832b546-dc9c-4259-ad70-d98ab79d73e7](https://github.com/Weslethai/exercicio-normaliza-o/assets/165031332/602b8dfc-2ee0-478e-ba3a-0dca0d77aace)
 Observe a tabela não normalizada de uma locadora de veículos e aplique a 3ª Forma normal;
